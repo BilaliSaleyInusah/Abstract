@@ -1,0 +1,2 @@
+# Abstract
+Java Abstract example
